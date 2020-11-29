@@ -15,5 +15,5 @@ Principales Beneficios:
 4.	Se pueden utilizer sin conexion a internet.
 5.	Escalables
 
-No importa en qué plataforma esta tu negocio. Nosotros te llevamos a las más efectivas herramientas del desarrollo web. Con un performance y optimización increíble. Mejor posicionamiento en internet, etc Aquí un ejemplo: 
+No importa en qué plataforma esta tu negocio. Nosotros te llevamos a las más efectivas herramientas del desarrollo web. Con un performance y optimización increíble. Mejor posicionamiento en internet, mejor Velocidad, Seguridad, Escalabilidad, etc
  

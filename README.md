@@ -17,3 +17,7 @@ Principales Beneficios:
 
 No importa en qué plataforma esta tu negocio. Nosotros te llevamos a las más efectivas herramientas del desarrollo web. Con un performance y optimización increíble. Mejor posicionamiento en internet, mejor Velocidad, Seguridad, Escalabilidad, etc
  
+Te presentamos este proyecto de ejemplo, es sencillo pero funcional, usted puede comprobar la velocidad y optimización del mismo con estas herramientas online:
+https://developers.google.com/speed/pagespeed/insights/
+o a través de lighthouse la extensión para Chrome https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
+

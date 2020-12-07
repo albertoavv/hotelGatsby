@@ -4,6 +4,7 @@ Este proyecto está desarrollado con Gatsby.js - https://www.gatsbyjs.com/ y Dat
 El funcionamiento puede verse aquí en netlify.app  url: https://awesome-nightingale-10bd57.netlify.app/
 
 Que es Gatsby:
+
 Generador de sitios web estaticos.
 Utiliza React, Webpack, GraphQL, ES6+, CSS.
 Utiliza el JAMStack (el presente y futuro del Desarrollo web).
